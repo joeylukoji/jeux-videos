@@ -1,0 +1,15 @@
+{
+  "title": "English Quest 3D - Little Explorers",
+  "language": "fr",
+  "target_age": "6-10",
+  "steps": [
+    {"id":"dog","english":"dog","french":"chien","category":"animal","position":[-10,0,-8]},
+    {"id":"cat","english":"cat","french":"chat","category":"animal","position":[-6,0,-8]},
+    {"id":"cow","english":"cow","french":"vache","category":"animal","position":[-10,0,-3]},
+    {"id":"elephant","english":"elephant","french":"éléphant","category":"animal","position":[-6,0,-3]},
+    {"id":"apple","english":"apple","french":"pomme","category":"food","position":[10,0,-8]},
+    {"id":"banana","english":"banana","french":"banane","category":"food","position":[6,0,-8]},
+    {"id":"carrot","english":"carrot","french":"carotte","category":"food","position":[10,0,-3]},
+    {"id":"orange","english":"orange","french":"orange","category":"food","position":[6,0,-3]}
+  ]
+}
